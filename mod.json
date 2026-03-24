@@ -7,8 +7,8 @@
 	"description": {
 		"full": {
 			"Cn_Simp": "ReadMe_cn.md",
-			"en_US": "ReadMe.txt",
-			"ru_RU": "ReadMe_rus.txt"
+			"en_US": "ReadMe.md",
+			"ru_RU": "ReadMe_rus.md"
 		},
 		"short": {
 			"Cn_Simp": "物资仓库产出 1 木材 + 1 矿石 + 1 稀有资源，其中稀有资源类型默认为该城镇的7级兵所需资源，每周可升级一次——花费金币和矿石以提高稀有资源的产量。",
@@ -22,7 +22,7 @@
 		"file": "silo.ico",
 		"index": 0
 	},
-	"mod_version": "2.1",
+	"mod_version": "2.2",
 	"priority": 0,
 	"compatibility": {
 		"class": "default",
